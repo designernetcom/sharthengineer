@@ -2344,8 +2344,8 @@ ul.list-icons li i {
 
 .header .navbar-brand .logo {
 	max-width: 100%;
-	width: 160px;
-	height: 60px;
+	width: 250px;
+	height: 95px;
 }
 
 @media screen and (max-width: 991.98px) {
@@ -6095,7 +6095,8 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 
 .slider .slide {
 	padding-top: 0;
-	height: 750px;
+	
+	height: 500px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -6145,7 +6146,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 .slider .slide .slide-content .slide-headline {
 	font-family: var(--global--font-heading);
 	font-weight: 700;
-	font-size: 75px;
+	font-size: 40px;
 	line-height: 75px;
 	color: var(--global--color-white);
 	margin-bottom: 24px;
