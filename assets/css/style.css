@@ -2409,9 +2409,9 @@ ul.list-icons li i {
 	color: var(--global--color-primary);
 }
 
-.header.header-topbar {
+/* .header.header-topbar {
 	height: 150px;
-}
+} */
 
 @media screen and (max-width: 991.98px) {
 	.header.header-topbar {
