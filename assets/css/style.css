@@ -6322,7 +6322,9 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 /* For tablet screens */
 @media (min-width: 768px) and (max-width: 1024px) {
   .slider .slide {
-    height: 100px; /* Slightly taller height for tablet screens */
+           height: 140px;
+        padding-top: 100px;
+        padding-bottom: 30px;
   }
 }
 
